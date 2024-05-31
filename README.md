@@ -1,1 +1,1 @@
-# bookMyShowRepo
+# core-java
